@@ -4,18 +4,20 @@
     "url": "https://replit.com/@WitherSkello/Minecraft-247-V2#README.md",
     "icon": "https://favicons.githubusercontent.com/replit.com",
     "slug": "replit-bot",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1128,
-    "timeDay": 2310,
-    "timeWeek": 1128,
-    "timeMonth": 1128,
-    "timeYear": 1128,
-    "dailyMinutesDown": {}
+    "time": 925,
+    "timeDay": 1212,
+    "timeWeek": 925,
+    "timeMonth": 925,
+    "timeYear": 925,
+    "dailyMinutesDown": {
+      "2022-04-24": 0
+    }
   },
   {
     "name": "Google",
@@ -40,35 +42,39 @@
     "url": "https://replit.com",
     "icon": "https://favicons.githubusercontent.com/replit.com",
     "slug": "replit",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 30,
-    "timeDay": 21,
-    "timeWeek": 30,
-    "timeMonth": 30,
-    "timeYear": 30,
-    "dailyMinutesDown": {}
+    "time": 28,
+    "timeDay": 22,
+    "timeWeek": 28,
+    "timeMonth": 28,
+    "timeYear": 28,
+    "dailyMinutesDown": {
+      "2022-04-24": 0
+    }
   },
   {
     "name": "replit me pyage",
     "url": "https://replit.com/@WitherSkello",
     "icon": "https://favicons.githubusercontent.com/replit.com",
     "slug": "replit-me-pyage",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 347,
-    "timeDay": 388,
-    "timeWeek": 347,
-    "timeMonth": 347,
-    "timeYear": 347,
-    "dailyMinutesDown": {}
+    "time": 266,
+    "timeDay": 205,
+    "timeWeek": 266,
+    "timeMonth": 266,
+    "timeYear": 266,
+    "dailyMinutesDown": {
+      "2022-04-24": 0
+    }
   }
 ]
