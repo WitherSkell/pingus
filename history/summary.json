@@ -6,8 +6,8 @@
     "slug": "replit-bot",
     "status": "up",
     "uptime": "99.93%",
-    "uptimeDay": "99.85%",
-    "uptimeWeek": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 514,
@@ -16,7 +16,6 @@
     "timeMonth": 466,
     "timeYear": 497,
     "dailyMinutesDown": {
-      "2024-02-16": 2,
       "2023-07-07": 16,
       "2023-04-03": 33
     }
@@ -36,7 +35,7 @@
     "timeDay": 71,
     "timeWeek": 120,
     "timeMonth": 96,
-    "timeYear": 113,
+    "timeYear": 112,
     "dailyMinutesDown": {
       "2023-10-02": 25,
       "2023-07-31": 25,
@@ -76,8 +75,8 @@
     "slug": "replit-me-pyage",
     "status": "up",
     "uptime": "99.93%",
-    "uptimeDay": "99.85%",
-    "uptimeWeek": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 426,
@@ -86,7 +85,6 @@
     "timeMonth": 521,
     "timeYear": 433,
     "dailyMinutesDown": {
-      "2024-02-16": 2,
       "2023-07-07": 16,
       "2023-04-03": 33
     }
