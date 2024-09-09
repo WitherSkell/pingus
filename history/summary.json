@@ -4,19 +4,19 @@
     "url": "https://replit.com/@WitherSkello/Minecraft-247-V2#README.md",
     "icon": "https://icons.duckduckgo.com/ip3/replit.com.ico",
     "slug": "replit-bot",
-    "status": "down",
+    "status": "up",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.99%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 524,
-    "timeDay": 13870,
-    "timeWeek": 3866,
-    "timeMonth": 1358,
+    "timeDay": 9411,
+    "timeWeek": 3492,
+    "timeMonth": 1331,
     "timeYear": 535,
     "dailyMinutesDown": {
-      "2024-09-09": 0
+      "2024-09-09": 15
     }
   },
   {
