@@ -4,18 +4,20 @@
     "url": "https://replit.com/@WitherSkello/Minecraft-247-V2#README.md",
     "icon": "https://icons.duckduckgo.com/ip3/replit.com.ico",
     "slug": "replit-bot",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 495,
-    "timeDay": 310,
-    "timeWeek": 474,
-    "timeMonth": 414,
-    "timeYear": 503,
-    "dailyMinutesDown": {}
+    "time": 494,
+    "timeDay": 223,
+    "timeWeek": 432,
+    "timeMonth": 406,
+    "timeYear": 502,
+    "dailyMinutesDown": {
+      "2025-02-01": 0
+    }
   },
   {
     "name": "Google",
@@ -61,17 +63,19 @@
     "url": "https://replit.com/@WitherSkello",
     "icon": "https://icons.duckduckgo.com/ip3/replit.com.ico",
     "slug": "replit-me-pyage",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 390,
-    "timeDay": 412,
-    "timeWeek": 426,
-    "timeMonth": 352,
-    "timeYear": 374,
-    "dailyMinutesDown": {}
+    "time": 389,
+    "timeDay": 226,
+    "timeWeek": 378,
+    "timeMonth": 343,
+    "timeYear": 373,
+    "dailyMinutesDown": {
+      "2025-02-01": 0
+    }
   }
 ]
